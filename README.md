@@ -93,16 +93,19 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ![Screenshot 2024-09-15 171646](https://github.com/user-attachments/assets/5105faa9-1772-494b-b37b-1c9886a9e8cd)
 
 ## Accuracy Score:
-![Screenshot 2024-09-15 171831](https://github.com/user-attachments/assets/1b37c6fd-371d-44c4-81ab-57f8903c22e5)
+![image](https://github.com/user-attachments/assets/ca869d50-308b-4469-a868-27be3ac6d323)
+
 
 ## Confusion Matrix:
-![Screenshot 2024-09-15 171838](https://github.com/user-attachments/assets/d6e7f770-f812-4c1f-9ee3-63a82317343b)
+![image](https://github.com/user-attachments/assets/0ffb5e86-a88b-4042-bea8-4a914e27e669)
+
 
 ## Classification Report:
-![Screenshot 2024-09-15 171914](https://github.com/user-attachments/assets/e8b2cdd5-763a-416c-8f1a-1e123493ea00)
+![image](https://github.com/user-attachments/assets/7f52a854-ca18-4d7b-aa2d-7139906a3384)
+
 
 ## Predicting output from Regression Model
-![Screenshot 2024-09-15 172131](https://github.com/user-attachments/assets/be85a07d-052d-42ae-b79b-655cb2a414ea)
+![image](https://github.com/user-attachments/assets/8aa346b8-aa37-41df-ad13-3063ab79b425)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
