@@ -76,7 +76,7 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 
 ## Checking the presence of null values:
-![Screenshot 2024-09-15 165927](https://github.com/user-attachments/assets/3374d39d-4de2-4acb-aa8c-1fccfa77a626)
+
 
 ## Checking the presence of duplicated values:
 ![Screenshot 2024-09-15 171349](https://github.com/user-attachments/assets/a22c14a6-e99e-4582-8cfe-bc159892167c)
