@@ -73,24 +73,16 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ## Data after dropping unwanted columns(first five):
 ![Screenshot 2024-09-12 140451](https://github.com/user-attachments/assets/58a8dc14-467d-4ca1-a956-7c3b85da7450)
-
-
-## Checking the presence of null values:
-
-
-## Checking the presence of duplicated values:
-![Screenshot 2024-09-15 171349](https://github.com/user-attachments/assets/a22c14a6-e99e-4582-8cfe-bc159892167c)
-
-## Data after Encoding:
-![Screenshot 2024-09-15 171426](https://github.com/user-attachments/assets/c22f32a6-893d-431a-9a6f-953a392665ab)
 ## X Data:
-![Screenshot 2024-09-15 171510](https://github.com/user-attachments/assets/79922d1b-15b4-452a-ba91-3b11ad103ae4)
+![image](https://github.com/user-attachments/assets/c0d06c53-17fc-4da1-9c94-d87c24cb1c2e)
+
 
 ## Y Data:
-![Screenshot 2024-09-15 171553](https://github.com/user-attachments/assets/146c0629-6e22-43a3-8729-2223c752f8c6)
+![image](https://github.com/user-attachments/assets/4ac3846b-88b5-475b-826a-72d173024d6a)
+
 
 ## Predicted Values:
-![Screenshot 2024-09-15 171646](https://github.com/user-attachments/assets/5105faa9-1772-494b-b37b-1c9886a9e8cd)
+![image](https://github.com/user-attachments/assets/df8e2395-cc22-42ba-b53a-7be59d566f2a)
 
 ## Accuracy Score:
 ![image](https://github.com/user-attachments/assets/ca869d50-308b-4469-a868-27be3ac6d323)
